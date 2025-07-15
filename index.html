@@ -15,7 +15,14 @@
           Be among the first to know when we launch. Join the waitlist.
         </p>
 
-        <form name="copyxpaste-waitlist" method="POST" data-netlify="true" class="form">
+        <form
+          name="copyxpaste-waitlist"
+          method="POST"
+          data-netlify="true"
+          class="form"
+          id="waitlist-form"
+        >
+          <input type="hidden" name="form-name" value="copyxpaste-waitlist" />
           <input
             type="email"
             name="email"
@@ -24,11 +31,14 @@
           />
           <button type="submit">Subscribe</button>
         </form>
+        <div id="form-message" class="form-message"></div>
       </div>
 
       <footer>
         Built with ♥️ by CopyxPaste
       </footer>
     </main>
+
+    <script src="script.js"></script>
   </body>
 </html>

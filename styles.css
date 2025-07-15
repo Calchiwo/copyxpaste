@@ -9,7 +9,7 @@ html,
 body {
   height: 100%;
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
-  background: linear-gradient(135deg, #0f172a, #1e293b); /* Rocjet Color vibe */
+  background: linear-gradient(135deg, #0f172a, #1e293b);
   color: #ffffff;
   display: flex;
   justify-content: center;
@@ -28,7 +28,7 @@ body {
 
 /* Card section */
 .card {
-  background: rgba(15, 23, 42, 0.7); /* Glassy */
+  background: rgba(15, 23, 42, 0.7);
   padding: 2rem;
   border-radius: 1rem;
   width: 100%;
@@ -114,6 +114,14 @@ footer {
   margin-top: 2rem;
   text-align: center;
   font-size: 1rem;
+  font-weight: bold;
+  color: #38bdf8;
+}
+
+/* Form Message */
+.form-message {
+  margin-top: 1rem;
+  font-size: 0.9rem;
   font-weight: bold;
   color: #38bdf8;
 }
