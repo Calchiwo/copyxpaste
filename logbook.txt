@@ -1,0 +1,34 @@
+## CopyxPaste – Logbook
+
+=== July 15, 2025 – Launch Day ===
+
+🔗 Launched: https://copyxpaste.netlify.app  
+✅ Form working — first test entry: tester@gmail.com  
+📱 Built entirely using Termux + Nano on Android  
+💻 GitHub: https://github.com/Calchiwo/copyxpaste  
+
+---
+
+### Reflections:
+Honestly, I’m proud of myself. This thing was just an idea in my head yesterday, and today it's live.
+
+I built a mobile-first landing page that works — clean design, Rocjet-style gradient, and Netlify-powered email capture. It shows a message when someone subscribes. Everything works beautifully.
+
+What blows my mind is: I did this *all* on my phone — no laptop, no VS Code, no fancy setup. Just Termux, Nano, Git, Netlify... and focus.
+
+This isn’t just about launching a webpage — it’s about proving to myself that I can build and ship with what I have.
+
+> One page. One email box. One clean message. And that’s how it begins.
+
+---
+
+### Next Steps:
+- [ ] Buy domain: `copyxpaste.com`
+- [ ] Improve success message UI
+- [ ] Add favicon
+- [ ] Craft launch tweet or X thread
+- [ ] Explore what CopyxPaste could evolve into
+
+— Caleb  
+🕒 5:42 PM, July 15, 2025  
+📍 From my phone using Termux
